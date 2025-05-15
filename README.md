@@ -11,7 +11,7 @@ The page contains details of the individual and social links to their platforms.
 ### Links
 
 - Solution URL: [https://github.com/Akshatasarawgi/Social-Links-Profile]
-- Live Site URL: []
+- Live Site URL: [https://sociallinkprofilea.netlify.app]
 
 ### Built with
 - Semantic HTML5 markup
